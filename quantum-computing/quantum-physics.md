@@ -1,3 +1,15 @@
+### What's a Qubit?
+
+A Qubi tis the basic unit of quantum information. It's the quantum version of the classical binary bit physically realized with a two-state device.
+
+A qubit represents a Two-state quantum system. This means that it can exist in any quantum superposition of two independent (physically distinguishable) quantum states. The Hilbert space describing such a system is two-dimensional.
+
+We can use electrons or photons to embody the quantum information. When a Qubit is measured, the outcomes represent a classicasl bit, either 0 or 1.
+
+### What's a Hilber Space?
+
+
+
 ### What's a measurement in Quantum physics?
 
 In quantum physics, a measurement is the testing or manipulation of a physical system in order to yield a numerical result. 
