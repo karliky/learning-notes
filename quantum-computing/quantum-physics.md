@@ -8,7 +8,17 @@ We can use electrons or photons to embody the quantum information. When a Qubit 
 
 ### What's a Hilber Space?
 
+Space in this context, is a set of vectors, which interact in a certain manner. This is a mathematical construct and not the "space" which we normally understand.
 
+The mathematical concept of a Hilbert space generalizes the notion of Euclidean space. They are typically sequences of complex numbers or functions.
+
+In quantum mechanics for example, a physical system is described by a complex Hilbert space which contains the "wavefunctions" that stand for the possible states of the system.
+
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=\|x\| = \sqrt{\langle x,x \rangle}">
+</p>
+
+We call H a Hilbert space if every Cauchy sequence of elements of the space converges to an element in the space.
 
 ### What's a measurement in Quantum physics?
 
@@ -23,3 +33,5 @@ Simply passing a photon through a calcite crystal doesn't make a quantum measure
 Notes:
 - Quantum Physics - Michael G. Raymer
 - Measurement in quantum mechanics https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics
+- Hilbert spaces - Quantiki https://www.quantiki.org/wiki/hilbert-spaces
+- Hilbert Space https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2
