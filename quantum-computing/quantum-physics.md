@@ -20,6 +20,15 @@ In quantum mechanics for example, a physical system is described by a complex Hi
 
 We call H a Hilbert space if every Cauchy sequence of elements of the space converges to an element in the space.
 
+### What's Quantum Coherence?
+
+Quantum coherence is an analogous to coherence in classical computing / classical polaritzation.
+
+> Two components, a and b, of the quantum state, must be stable and not wander.
+
+We can use _coherent superposition_ to describe a combination of two states components that give rise to a particular quantum state.
+
+
 ### What's a measurement in Quantum physics?
 
 In quantum physics, a measurement is the testing or manipulation of a physical system in order to yield a numerical result. 
@@ -29,6 +38,7 @@ In quantum physics, a measurement is the testing or manipulation of a physical s
 
 Simply passing a photon through a calcite crystal doesn't make a quantum measurement. But, if the photon is registered by a detector, then the crystal and detector work together to create a measurement.
 
+<hr/>
 
 Notes:
 - Quantum Physics - Michael G. Raymer
