@@ -18,5 +18,8 @@ Each button is a switch that completes a circuit whenever it is pressed.
 - Welding/Soldering Pins to an LCD  https://www.youtube.com/watch?v=uzxw1yl1s_M&ab_channel=SunFounderMakerEducation
 - Working with PIN headers https://www.youtube.com/watch?v=qz9Ryos1_GY&ab_channel=RimstarOrg
 
+# Handheld projects for reference
+- Handheld raspberry project https://www.youtube.com/watch?v=PXReWIHc6-Q&ab_channel=BricoGeek
+
 Notes
 - https://electronics.howstuffworks.com/dreamcast.htm
