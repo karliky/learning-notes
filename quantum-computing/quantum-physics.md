@@ -38,6 +38,15 @@ In quantum physics, a measurement is the testing or manipulation of a physical s
 
 Simply passing a photon through a calcite crystal doesn't make a quantum measurement. But, if the photon is registered by a detector, then the crystal and detector work together to create a measurement.
 
+### Can arrows ⬈ be used to represent the state of macroscopic objects?
+Short answer: No. 
+
+The arrow, which is called __state arrow__, is used to represent the positional states of a qubit in a quantum computer.
+
+<img src="https://miro.medium.com/max/1200/0*Sq0eyy16DddEo_e2.jpg" width="500" align="center">
+
+The arrow can be used to represent mutually exclusive states of a coin, being 'head' or 'tails', but it's impossible to represent a superposition state of the two.
+
 <hr/>
 
 Notes:
@@ -45,3 +54,4 @@ Notes:
 - Measurement in quantum mechanics https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics
 - Hilbert spaces - Quantiki https://www.quantiki.org/wiki/hilbert-spaces
 - Hilbert Space https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2
+- Schrödinger’s Cat for Everyone (And its role in sci-fi.) https://medium.com/the-fantasy-science-lab/schr%C3%B6dingers-cat-for-everyone-and-its-role-in-sci-fi-ca57215a1045
