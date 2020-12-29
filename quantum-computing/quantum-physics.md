@@ -1,3 +1,18 @@
+### General topics for Quantum Physics / Quantum Computing
+
+- Inherent randomness
+  - Classical experiments are inherentily reproducible. Quantum experiments may give two different results.
+- Measurement
+  - A quantum measurement _creates_ an outcume.
+- Quantum state
+- Max Born's probability rule
+- Unity of measurement / States
+- Unitary processes
+- Planck's Energy / Time relation
+- Broglie's Momentum-Length relation
+- Schrodinger's equation Equation for Possibility waves
+- Heissenberg's Uncertainty Principle
+
 ### What's a Qubit?
 
 A Qubi tis the basic unit of quantum information. It's the quantum version of the classical binary bit physically realized with a two-state device.
