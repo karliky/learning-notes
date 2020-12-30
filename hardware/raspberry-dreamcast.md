@@ -30,6 +30,8 @@ Each button is a switch that completes a circuit whenever it is pressed.
 # Handheld projects for reference
 - Handheld raspberry project https://www.youtube.com/watch?v=PXReWIHc6-Q&ab_channel=BricoGeek
 - Retro Gaming with Raspberry Pi https://learn.adafruit.com/retro-gaming-with-raspberry-pi?view=all
+- Handheld Recalbox Game Console Using 2.2 TFT https://www.instructables.com/Handheld-Recalbox-Game-Console-Using-22-TFT/
+  - https://content.instructables.com/ORIG/FVP/H2H2/JQMOAHIG/FVPH2H2JQMOAHIG.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=f47f72e9597a0f3295b1294b69b54109
 
 Notes
 - https://electronics.howstuffworks.com/dreamcast.htm
