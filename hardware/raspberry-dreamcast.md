@@ -11,6 +11,14 @@ The standard Dreamcast controller has 11 buttons plus an analog joystick. The bu
 
 Each button is a switch that completes a circuit whenever it is pressed.
 
+# LCD Displays
+
+- How to add an RCA TV Connector to a Raspberry Pi Zero https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-add-an-rca-tv-connector-to-a-raspberry-pi-zero
+
+# Logic level shifting
+- Bi-Directional Logic Level Converter Hookup Guide https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide
+- Logic level shifter unit https://tienda.bricogeek.com/herramientas-de-prototipado/82-conversor-de-niveles-logicos-33-5v.html
+
 # Soldering
 
 - How to solde properly https://www.youtube.com/watch?v=VxMV6wGS3NY&ab_channel=GreatScott%21
@@ -20,6 +28,7 @@ Each button is a switch that completes a circuit whenever it is pressed.
 
 # Handheld projects for reference
 - Handheld raspberry project https://www.youtube.com/watch?v=PXReWIHc6-Q&ab_channel=BricoGeek
+- Retro Gaming with Raspberry Pi https://learn.adafruit.com/retro-gaming-with-raspberry-pi?view=all
 
 Notes
 - https://electronics.howstuffworks.com/dreamcast.htm
