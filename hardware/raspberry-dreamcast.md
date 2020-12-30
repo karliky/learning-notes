@@ -14,6 +14,7 @@ Each button is a switch that completes a circuit whenever it is pressed.
 # LCD Displays
 
 - How to add an RCA TV Connector to a Raspberry Pi Zero https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-add-an-rca-tv-connector-to-a-raspberry-pi-zero
+- Recalbox mini game console with Raspberry Pi 0 W, 2.2" TFT and GPIO buttons https://www.youtube.com/watch?v=q_Xg_Vp2br4&ab_channel=BillyCheung
 
 # Logic level shifting
 - Bi-Directional Logic Level Converter Hookup Guide https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide
