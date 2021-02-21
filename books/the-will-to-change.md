@@ -25,3 +25,34 @@ I had no words to communicate to the dad who did not listen, who did not seem to
 ## Wanted: Men Who Love
 
 Every female wants to be loved by a male. They want to feel the love of their father, grandfather, uncle, brother or male friend.
+
+No one hungers for male love more than the little girl or boy who rightfully needs and seeks love from Dad.
+He may be absent, dead, present in body yet emotionally not there.
+
+> each night millions of kids go to sleep starving - for attention from their dads.
+
+In The Country of Men, Jan Waldron describes: The love of a father is an uncommon gem, to be hunted burnished and hoarded. The value goes up because of its scarcity.
+
+Women who envied men their hardheartedness were not about to tell us the depth of male suffering.
+
+> I think the reason that men are so violent is that they know, deep in themselves, that they're acting out a lie, and so they're furious at being caugth up in the lie.
+> -- Barbara Deming
+
+Women have been joined by men with open minds and big hearts, to practice the art of loving in patriarchal culture.
+
+Men can be fundamentally uncomfortable being asked to talk about emotions.
+
+Many woman cannot hear male pain about love because it sounds like an indictment of female failure.
+
+Fear keeps us away from love. And yet women rarely talk to men about how much we fear them. Fear keeps us from being close to the men in our lives, it keeps us from love. Yet when I began to talk with men about love, time and time again I heard stories of male fear of other males. We cannot love what we fear.
+
+I write about men and love as a declaration of profound gratitude to the males in my file with whom I do the work of love.
+
+My mother and father were the source figures who shapped my patterns of love and longing.
+
+
+
+
+
+
+
